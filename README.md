@@ -1,6 +1,6 @@
 <!-- Your Name -->
 # Hi there! 👋
-I'm Giorgi, a Data Engineer. Welcome to my GitHub profile! 
+I'm Giorgi, a Data Engineer @Upwork. Welcome to my GitHub profile! 
 
 <!-- Introduction -->
 ## About Me
@@ -18,8 +18,8 @@ I'm passionate about leveraging Python to extract, manipulate, and analyze data.
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tserediani&show_icons=true&theme=radical)
 
 <!-- Languages -->
 ## Top Languages
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tserediani&layout=compact&theme=radical)
