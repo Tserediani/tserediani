@@ -9,7 +9,7 @@ I'm passionate about leveraging Python to extract, manipulate, and analyze data.
 - *Python programming* ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
 - *Web scraping with* ![Selenium](https://img.shields.io/badge/-Selenium-green?logo=selenium&logoColor=white&style=flat) ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-blue?logo=beautifulsoup&logoColor=white&style=flat)
 - *Data extraction and parsing*
-- *Data manipulation and analysis with* ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white&style=flat) [Pandas](https://img.shields.io/badge/-Pandas-blue?logo=pandas&logoColor=white&style=flat)
+- *Data manipulation and analysis with* ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white&style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-blue?logo=pandas&logoColor=white&style=flat)
 - *Data visualization using* ![Matplotlib](https://img.shields.io/badge/-Matplotlib-orange?logo=python&logoColor=white&style=flat) ![Plotly](https://img.shields.io/badge/-Plotly-orange?logo=plotly&logoColor=white&style=flat)
 - *Data wrangling and cleaning*
 - *Data processing and transformation*
