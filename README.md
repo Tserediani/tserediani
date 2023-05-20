@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Hi there! 👋
+## Running Line/Header
 I'm Giorgi, a Data Engineer @Upwork. Welcome to my GitHub profile! 
 
 <!-- Introduction -->
