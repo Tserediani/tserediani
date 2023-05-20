@@ -1,6 +1,6 @@
 
 # Yo! 👋
-I'm Giorgi, a Data Engineer @Upwork. Welcome to my GitHub profile! 
+I'm Giorgi, a *Data Engineer* @Upwork. Welcome to my GitHub profile! 
 
 ## About Me
 I'm passionate about leveraging Python to extract, manipulate, and analyze data. With expertise in web scraping using frameworks like Selenium and Beautiful Soup/Requests, along with data frameworks like Pandas, I enjoy tackling complex data challenges and deriving valuable insights.
