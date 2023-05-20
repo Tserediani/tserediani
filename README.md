@@ -1,5 +1,5 @@
 <!-- Your Name -->
-## Running Line/Header
+# Welcome 👋
 I'm Giorgi, a Data Engineer @Upwork. Welcome to my GitHub profile! 
 
 <!-- Introduction -->
@@ -9,10 +9,13 @@ I'm passionate about leveraging Python to extract, manipulate, and analyze data.
 <!-- Skills -->
 ## Skills
 - Python programming
-- Web scraping with Selenium and Beautiful Soup
+- Web scraping with ![Selenium](https://img.shields.io/badge/-Selenium-green?logo=selenium&logoColor=white&style=flat) ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-blue?logo=beautifulsoup&logoColor=white&style=flat)
 - Data extraction and parsing
-- Data manipulation and analysis with NumPy and Pandas
-- Data visualization using Matplotlib, Seaborn, and Plotly
+- Data manipulation and analysis with ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white&style=flat)
+- Data manipulation and analysis with ![Pandas](https://img.shields.io/badge/-Pandas-blue?logo=pandas&logoColor=white&style=flat)
+- Data visualization using ![Matplotlib](https://img.shields.io/badge/-Matplotlib-orange?logo=python&logoColor=white&style=flat)
+- Data visualization using ![Seaborn](https://img.shields.io/badge/-Seaborn-orange?logo=python&logoColor=white&style=flat)
+- Data visualization using ![Plotly](https://img.shields.io/badge/-Plotly-orange?logo=plotly&logoColor=white&style=flat)
 - Data wrangling and cleaning
 - Data processing and transformation
 
