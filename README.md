@@ -15,8 +15,8 @@ I'm passionate about leveraging Python to extract, manipulate, and analyze data.
 - *Data processing and transformation*
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tserediani&show_icons=true&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tserediani&show_icons=true&theme=tokyonight)
 
 
 ## Top Languages
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tserediani&layout=compact&theme=dracula)
+![Your Top Languages](https://github-readme-stats.vercel.app/api?username=tserediani&show_icons=true&theme=tokyonight)
