@@ -19,4 +19,4 @@ I'm passionate about leveraging Python to extract, manipulate, and analyze data.
 
 
 ## Top Languages
-![Your Top Languages](https://github-readme-stats.vercel.app/api?username=tserediani&show_icons=true&theme=tokyonight)
+![Your Top Languages]((https://github-readme-stats.vercel.app/api/top-langs/?username=tserediani&layout=compact&theme=tokyonight))
