@@ -1,16 +1,25 @@
-### Hi there 👋
+<!-- Your Name -->
+# Hi there! 👋
+I'm Giorgi, a Data Engineer. Welcome to my GitHub profile! 
 
-<!--
-**Tserediani/tserediani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Introduction -->
+## About Me
+I'm passionate about leveraging Python to extract, manipulate, and analyze data. With expertise in web scraping using frameworks like Selenium and Beautiful Soup/Requests, along with data frameworks like Pandas, I enjoy tackling complex data challenges and deriving valuable insights.
 
-Here are some ideas to get you started:
+<!-- Skills -->
+## Skills
+- Python programming
+- Web scraping with Selenium and Beautiful Soup
+- Data extraction and parsing
+- Data manipulation and analysis with NumPy and Pandas
+- Data visualization using Matplotlib, Seaborn, and Plotly
+- Data wrangling and cleaning
+- Data processing and transformation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats -->
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+<!-- Languages -->
+## Top Languages
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
