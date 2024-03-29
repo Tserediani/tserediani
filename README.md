@@ -15,6 +15,7 @@ I'm passionate about leveraging Python to extract, manipulate, and analyze data.
 - *Data processing and transformation*
 
 ## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=tserediani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tserediani&theme=tokyonight&hide_border=true))
 
 
