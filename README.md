@@ -15,11 +15,11 @@ I'm passionate about leveraging Python to extract, manipulate, and analyze data.
 - *Data processing and transformation*
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tserediani&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tserediani&theme=tokyonight&hide_border=true))
 
 
 ## Top Languages
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tserediani&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tserediani&layout=compact&theme=tokyonight)
 
 ## Workspace
 ![](https://img.shields.io/badge/Intel-Core_i7_11700-0071C5?style=flat&logo=intel&logoColor=white)
