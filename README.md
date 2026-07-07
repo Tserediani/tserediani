@@ -14,11 +14,7 @@ I'm passionate about leveraging Python to extract, manipulate, and analyze data.
 - *Data processing and transformation*
 
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tserediani&layout=compact&theme=tokyonight)
-
 ## Workspace
 ![](https://img.shields.io/badge/Intel-Core_i7_11700-0071C5?style=flat&logo=intel&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
